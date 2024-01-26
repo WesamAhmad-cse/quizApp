@@ -1,5 +1,5 @@
 
-# Quix App
+# Quiz App
 
 Simple Flutter application, is my first project in flutter and it contain a questions and multiple answers.
 
